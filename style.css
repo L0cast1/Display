@@ -1,0 +1,47 @@
+h1 {
+    text-align: center;
+    margin-top: 100px;
+    font-size: 50px;
+}
+
+.car {
+    color: white;
+}
+
+h2 {
+    background-color: black;
+    color: #febe01;
+    margin-left: 100px;
+    margin-right: 100px;
+    height: 150px;
+    border-radius: 4px;
+    padding: 30px;
+    font-size: 33px;
+
+}
+.carro {
+    color: #b2b2b2;
+}
+
+.cores {
+    color: #febe01;
+}
+
+p {
+    font-size: 20px;
+}
+
+.cmpcar {
+    font-size: 20px;
+    background-color: #febe01;
+    border-radius: 4px;
+    padding: 10px;
+    text-decoration: none;
+    
+}
+
+a {
+    color: #332200;
+}
+
+
